@@ -4,10 +4,10 @@ This is an interactive CLI tool that helps you find restaurants in your city/are
 ## Getting Started
 - In order to get started make sure you have `python3` installed.
 - Install `pipenv` to activate the virtual. If you don't have `pipenv` installed follow the [documentation](https://pipenv.readthedocs.io/en/latest/)
-- After installing `pipenv` now `cd/yelp-cli` and activate the virtual environment using this command `pipenv shell`
+- After installing `pipenv` now `cd yelp-cli` and activate the virtual environment using this command `pipenv shell`
 - Install dependencies using this command `pipenv install`.
 - Now export the api key from Yelp Developers, `export API_KEY=XXXXXXXXXX`
-- Lastly now you can the program `python3 main.py`
+- Lastly now you can run the program `python3 main.py`
 
 
 ## Demo
